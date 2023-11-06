@@ -11,3 +11,6 @@
 
   ![profile count](https://komarev.com/ghpvc/?username=ravikant-paudel&color=red) ![Thanks!](https://img.shields.io/badge/Thanks%20for%20visiting-!-1EAEDB.svg)
  
+## Star History
+
+[![Star History Chart](https://api.star-history.com/svg?repos=ravikant-paudel/github-readme-activity-graph&type=Timeline)](https://star-history.com/#ravikant-paudel/github-readme-activity-graph&Timeline)

@@ -4,12 +4,12 @@
  
   ### 📈 GitHub Stats
  <p align="center">
-  <img width="48%" src="https://github-readme-stats.vercel.app/api?username=ravikant-paudel&show_icons=true&count_private=true&theme=react&hide_border=true&bg_color=0D1117&title_color=64ffda&icon_color=64ffda&text_color=8892b0" alt="GitHub Stats" />
+  <img width="70%" src="https://github-readme-stats.vercel.app/api?username=ravikant-paudel&show_icons=true&count_private=true&theme=react&hide_border=true&bg_color=0D1117&title_color=64ffda&icon_color=64ffda&text_color=8892b0" alt="GitHub Stats" />
 </p>
   
   ### 💻 Most Used Languages
   <p align="center">
-  <img width="48%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ravikant-paudel&layout=compact&theme=react&hide_border=true&bg_color=0D1117&title_color=64ffda&text_color=8892b0&langs_count=8&hide=html,css" alt="Top Languages" />
+  <img width="70%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ravikant-paudel&layout=compact&theme=react&hide_border=true&bg_color=0D1117&title_color=64ffda&text_color=8892b0&langs_count=8&hide=html,css" alt="Top Languages" />
   </p>
 
   
